@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "64986539102",
+    "project_id": "iotbasedhomesecurity",
+    "storage_bucket": "iotbasedhomesecurity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64986539102:android:c0eda216ef5566a5e1c0cf",
+        "android_client_info": {
+          "package_name": "com.example.iotbasedhomesecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64986539102-cm325kmnl8g4t98fakk78bh95mofgauc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iotbasedhomesecurity",
+            "certificate_hash": "8a043124c68b7ad90247f91826a9c0bcafac17de"
+          }
+        },
+        {
+          "client_id": "64986539102-fha2ksdvnlcmmugcj9ar2pq6s0vrjimn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDAk_MC_sXw8tYHprTjz7KBGj54t0zt6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64986539102-fha2ksdvnlcmmugcj9ar2pq6s0vrjimn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
