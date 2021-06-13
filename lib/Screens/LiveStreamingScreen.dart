@@ -2,14 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 import 'dart:io' show Platform;
 
-
 class StreamingScreen extends StatefulWidget {
   @override
   _StreamingScreenState createState() => _StreamingScreenState();
 }
 
 class _StreamingScreenState extends State<StreamingScreen> {
-
   @override
   void initState() {
     // TODO: implement initState
@@ -20,7 +18,7 @@ class _StreamingScreenState extends State<StreamingScreen> {
   @override
   Widget build(BuildContext context) {
     return WebView(
-      initialUrl: 'http://192.168.18.90/',
+      initialUrl: 'http://192.168.8.103/',
       javascriptMode: JavascriptMode.unrestricted,
     );
   }
